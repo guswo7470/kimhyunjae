@@ -1,0 +1,1 @@
+system_encoding = 'euc-kr'
